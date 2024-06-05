@@ -1,0 +1,10 @@
+{
+    "name": "Canvas Dark Theme",
+    "description" : "An extension transforms your canvas elements into dark.",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": "popup.png"
+    }
+}
